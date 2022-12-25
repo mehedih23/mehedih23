@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/tRaYlmRE9ZwUoxhz1X)]
+[![MasterHead](<iframe src="https://giphy.com/embed/tRaYlmRE9ZwUoxhz1X" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tRaYlmRE9ZwUoxhz1X">via GIPHY</a></p>)]
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh.</h3>
