@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/tRaYlmRE9ZwUoxhz1X/giphy.gif)
+![MasterHead](https://i.ibb.co/b3883Qg/node.png)
 
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
