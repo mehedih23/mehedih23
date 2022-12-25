@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.giphy.com/media/tRaYlmRE9ZwUoxhz1X/giphy.gif))]
+![MasterHead](https://media.giphy.com/media/tRaYlmRE9ZwUoxhz1X/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh.</h3>
